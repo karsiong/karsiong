@@ -1,4 +1,9 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=25&duration=2000&color=E640B6&center=true&vCenter=true&multiline=true&height=100&lines=AN+APPLE+A+DAY;KEEPS+THE+DOCTER+AWAY)](https://git.io/typing-svg)
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karsiong&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD0000)](https://git.io/streak-stats)
+
 
 <!--
 **karsiong/karsiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
