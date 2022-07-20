@@ -1,7 +1,19 @@
+
+
+<div align="center"> 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=25&duration=2000&color=E640B6&center=true&vCenter=true&multiline=true&height=100&lines=AN+APPLE+A+DAY;KEEPS+THE+DOCTER+AWAY)](https://git.io/typing-svg)
 
+</div>
+
+
+<div align="center"> 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karsiong&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD0000)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center"> 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,6 +34,7 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+</div>
 
 <!--
 **karsiong/karsiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
